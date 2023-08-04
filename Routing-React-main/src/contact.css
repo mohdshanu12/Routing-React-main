@@ -1,0 +1,19 @@
+.contact-container {
+    display : flex;
+    flex-direction : column;
+    height : 90vh;
+    justify-content : center;
+    align-items : center;
+    
+}
+
+.contact-container button {
+    background-color : rgb(31, 72, 85);
+    color : white;
+    font-size: 20px;
+    font-weight: bold;
+    border : none;
+    height : 40px;
+    width : 100px;
+    border-radius : 10px;
+}
